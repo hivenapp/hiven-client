@@ -21,6 +21,6 @@ jobs:
           prerelease: false
           title: ${{ github.event.head_commit.message }}
           files: |
-            ./linux_build/*
-            ./mac_build/*
-            ./win_build/*
+            ./linux_build/*.*
+            ./mac_build/*.*
+            ./win_build/*.*
