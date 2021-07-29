@@ -22,3 +22,4 @@ jobs:
             /linux_build/*.Appimage
             /max_build/*.dmg
             /win_build/*.exe
+            test.md
