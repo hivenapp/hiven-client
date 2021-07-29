@@ -12,6 +12,8 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps:
+      - uses: actions/checkout@master
+        name: Checkout the repo
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
@@ -19,4 +21,6 @@ jobs:
           prerelease: false
           title: ${{ github.event.head_commit.message }}
           files: |
-            test.md
+            ./linux_build/*.Appimage
+            ./max_build/*.dmg
+            ./win_build/*.exe
