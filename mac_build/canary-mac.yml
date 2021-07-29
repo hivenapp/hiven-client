@@ -1,0 +1,12 @@
+version: 1.1.2
+files:
+  - url: Hiven Canary-1.1.2-mac.zip
+    sha512: DvO6wsy69C1VDMx2yM64N4oNitqkHJTmAs1HSjGtXlkDyMbfh5P4ECZ6cCAJWsVV4K/jOqsrIK86pfKIGibYow==
+    size: 72293411
+    blockMapSize: 75985
+  - url: Hiven Canary-1.1.2.dmg
+    sha512: eQCcIP3tBfvcTUynCIoqFfbhb5RZd1BWl9wQc6Ok/msvfQtNmKzBR4+sIIeiDKDzkqSPilkJygB3BWDNVMu+EQ==
+    size: 75221914
+path: Hiven Canary-1.1.2-mac.zip
+sha512: DvO6wsy69C1VDMx2yM64N4oNitqkHJTmAs1HSjGtXlkDyMbfh5P4ECZ6cCAJWsVV4K/jOqsrIK86pfKIGibYow==
+releaseDate: '2021-07-29T11:37:17.190Z'
