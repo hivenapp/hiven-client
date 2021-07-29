@@ -19,7 +19,4 @@ jobs:
           prerelease: false
           title: ${{ github.event.head_commit.message }}
           files: |
-            /linux_build/*.Appimage
-            /max_build/*.dmg
-            /win_build/*.exe
             test.md
