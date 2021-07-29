@@ -1,12 +1,12 @@
 version: 1.1.5
 files:
   - url: Hiven-Canary-1.1.5-mac.zip
-    sha512: t+R3c32xqKmaDxTSqBOlXEsHILXogvD4E+Tpp+SQZbpyej7jKGXVlq+MhBimRtfGcNO/AMfFtNW9rtXsq2HcfQ==
-    size: 72293594
-    blockMapSize: 76112
+    sha512: QhnziP1Qw/4aNvEkCEonaiKj6+ZM+LOMcXq0jZ6cFSHyGnkm+hrrd0IhN17RlgDTm/yksigtHSlY/R0V4PNFGw==
+    size: 72293603
+    blockMapSize: 76113
   - url: Hiven-Canary-1.1.5.dmg
-    sha512: tXQ2QFozhyKmfbWn+433Rf9vFrJv6QhwtboeE4Y2OECZZ9FpgqGdi9dxe8OToFYRP9yxUHznfrZD2R6VtoBBaQ==
-    size: 75221832
+    sha512: pD64nPrjYFzjEBqpV5DfGGccWA32kkY8qUV4tqNWejTCO4YeVwgYDLxl7MBMX4dY5Uwruv6ZdIlQIEHLWODXFQ==
+    size: 75240167
 path: Hiven-Canary-1.1.5-mac.zip
-sha512: t+R3c32xqKmaDxTSqBOlXEsHILXogvD4E+Tpp+SQZbpyej7jKGXVlq+MhBimRtfGcNO/AMfFtNW9rtXsq2HcfQ==
-releaseDate: '2021-07-29T13:07:41.525Z'
+sha512: QhnziP1Qw/4aNvEkCEonaiKj6+ZM+LOMcXq0jZ6cFSHyGnkm+hrrd0IhN17RlgDTm/yksigtHSlY/R0V4PNFGw==
+releaseDate: '2021-07-29T13:35:41.393Z'
