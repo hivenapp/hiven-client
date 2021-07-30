@@ -1,9 +1,9 @@
-version: 1.2.0
+version: 1.2.1
 files:
-  - url: Hiven-Canary-1.2.0.AppImage
-    sha512: 31x8zd6PvUCy1ZE8tWGYYY7419VS45fpUUh49iFn0giaBqjycefJAlCJ92wp+ystWkkmPv8iidljFtSPmYfrrA==
-    size: 77499812
-    blockMapSize: 81336
-path: Hiven-Canary-1.2.0.AppImage
-sha512: 31x8zd6PvUCy1ZE8tWGYYY7419VS45fpUUh49iFn0giaBqjycefJAlCJ92wp+ystWkkmPv8iidljFtSPmYfrrA==
-releaseDate: '2021-07-30T00:53:40.443Z'
+  - url: Hiven-Canary-1.2.1.AppImage
+    sha512: kGgRLFxX3aJketXldFlA98nJCbEAehmHLmuaJiNULdj/KC6cAf5+TheHsOBp0egAPw8mw5zOyf7HRZOuDCRaHg==
+    size: 77499782
+    blockMapSize: 81306
+path: Hiven-Canary-1.2.1.AppImage
+sha512: kGgRLFxX3aJketXldFlA98nJCbEAehmHLmuaJiNULdj/KC6cAf5+TheHsOBp0egAPw8mw5zOyf7HRZOuDCRaHg==
+releaseDate: '2021-07-30T01:14:49.994Z'
