@@ -1,8 +1,8 @@
-version: 1.1.9
+version: 1.2.0
 files:
-  - url: Hiven-Canary-Setup-1.1.9.exe
-    sha512: KScdzYyph7ikmq/aaYbqHcBEPQue0Wa09D2L/b/tCS/LvCrQBG81Py5yZIf/ojZdri3PCX+z1tQSy8uF7JmUnQ==
-    size: 51715823
-path: Hiven-Canary-Setup-1.1.9.exe
-sha512: KScdzYyph7ikmq/aaYbqHcBEPQue0Wa09D2L/b/tCS/LvCrQBG81Py5yZIf/ojZdri3PCX+z1tQSy8uF7JmUnQ==
-releaseDate: '2021-07-29T15:00:42.263Z'
+  - url: Hiven-Canary-Setup-1.2.0.exe
+    sha512: zZFa+cY6WzvLpPeSzVld68fhNd6bByKWpBi5FC1yVslRq93ozKsE8XlR8ycMx++sXe/CuMuR9lxyDNAsXeSTxg==
+    size: 51713558
+path: Hiven-Canary-Setup-1.2.0.exe
+sha512: zZFa+cY6WzvLpPeSzVld68fhNd6bByKWpBi5FC1yVslRq93ozKsE8XlR8ycMx++sXe/CuMuR9lxyDNAsXeSTxg==
+releaseDate: '2021-07-30T00:56:00.172Z'
